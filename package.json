@@ -1,0 +1,22 @@
+{
+  "name": "node-pi-gpio",
+  "version": "0.0.1",
+  "description": "Try out some of the raspbery gpio-s for various sensors",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kgkolev/node-pi-gpio.git"
+  },
+  "author": "kgkolev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kgkolev/node-pi-gpio/issues"
+  },
+  "homepage": "https://github.com/kgkolev/node-pi-gpio#readme",
+  "dependencies": {
+    "onoff": "^3.2.1"
+  }
+}
